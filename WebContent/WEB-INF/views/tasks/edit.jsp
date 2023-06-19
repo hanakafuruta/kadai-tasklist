@@ -19,7 +19,7 @@
                 document.forms[1].submit();
             }
         }
-        </script>s
+        </script>
 
     </c:param>
 </c:import>
